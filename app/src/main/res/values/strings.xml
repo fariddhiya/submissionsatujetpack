@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">IMBB</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_dashboard">TV Show</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="MovieImage">Movie Image</string>
+    <string name="title">Movie Title</string>
+    <string name="dateline">Release Date</string>
+    <string name="content_movie">Content Image Movie</string>
+    <string name="text_title">Title</string>
+    <string name="text_genre">Genre</string>
+    <string name="text_rating">10</string>
+    <string name="text_rating_max">/10</string>
+    <string name="text_rating_user">1,000</string>
+    <string name="text_duration">60</string>
+    <string name="duration_template">min/episode</string>
+    <string name="text_title_description">Description : </string>
+    <string name="text_title_director">Director : </string>
+    <string name="text_director">Christoper Nollan</string>
+    <string name="text_title_writer">Writer : </string>
+    <string name="text_description">"bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla "</string>
+    <string name="share_text">Segera cari informasi tentang film %s ini pada link %s dan jangan lupa untuk menonton yaa</string>
+    <string name="app_version">Version 1.0 Beta</string>
+    <string name="title_tvshow">TV Show</string>
+    <string name="text_season">Season</string>
+    <string name="text_episode">episode</string>
+    <string name="text_year">Year :</string>
+    <string name="text_year_template">2017</string>
+</resources>
